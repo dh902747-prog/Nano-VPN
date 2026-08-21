@@ -4,7 +4,6 @@
 
 # 官网
    
-↘ ↓ ↙  
+ ↘ ↓ ↙  
 →[链接](https://47.238.146.96/auth/register?code=nvsBli0f)←
-
-↗ ↑ ↖
+ ↗ ↑ ↖
